@@ -8,3 +8,25 @@ h1  {
     background-color: rgb(216, 216, 216);
     
 }
+
+.gridTwo {
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;
+    
+}
+
+.gridTwo .g2-1 p{
+   
+    background-color: red;
+}
+
+
+.gridTwo .g2-2 p{
+   
+    background-color: blue;
+}
+
+.gridTwo .g2-3 p{
+   
+    background-color: yellow;
+}
