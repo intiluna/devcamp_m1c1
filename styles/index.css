@@ -51,3 +51,10 @@ h1  {
     height:225px;
     object-fit: cover;
 }
+
+.gridThree {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    
+    
+}
