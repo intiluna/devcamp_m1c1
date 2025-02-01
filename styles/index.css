@@ -71,7 +71,7 @@ h1  {
     display: grid;
     grid-template-rows: 1fr 1fr;
     width:500px;
-    height: 400px;
+    height: 350px;
     background-color: grey;
 
       
@@ -87,4 +87,12 @@ h1  {
 #g5d2 img {
     width: 200px;
     height: 200px;
+}
+
+.gridSix {
+    font-family: "Roboto", "serif";
+    font-weight: 900;
+    font-style: italic;
+    background-color: lightgrey;
+    width:500px;
 }
