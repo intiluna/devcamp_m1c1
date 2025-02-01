@@ -15,18 +15,18 @@ h1  {
     
 }
 
-.gridTwo .g2-1 p{
+.gridTwo >.g2-1 > p{
    
     background-color: red;
 }
 
 
-.gridTwo .g2-2 p{
+.gridTwo >.g2-2 > p{
    
     background-color: blue;
 }
 
-.gridTwo .g2-3 p{
+.gridTwo >.g2-3 > p{
    
     background-color: yellow;
 }
@@ -39,12 +39,12 @@ h1  {
     
 }
 
-.gridThree .g3-1 {
+.gridThree > .g3-1 {
    
     background-color: rgb(106, 175, 196);
 }
 
-.gridThree .g3-2 img{
+.gridThree > .g3-2 >img{
    
     background-color: rgb(194, 194, 194);
     width:500px;
