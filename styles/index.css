@@ -52,9 +52,39 @@ h1  {
     object-fit: cover;
 }
 
-.gridThree {
+.gridFour {
     display: grid;
     grid-template-rows: 1fr 1fr;
+    width:500px;
+    background-color: green;
+
+      
+}
+
+#g4d2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     
-    
+}
+
+.gridFive {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    width:500px;
+    height: 400px;
+    background-color: grey;
+
+      
+}
+
+#g5d2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    object-fit: cover;
+    width: 500px;
+}
+
+#g5d2 img {
+    width: 200px;
+    height: 200px;
 }
